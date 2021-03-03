@@ -24,6 +24,10 @@ namespace DegerVeReferansTipler
             //new:bellekte yeni bir yer tutmaya yarar
             // REFERANS TİPLERDE ADRESE ATAMA YAPIYORSUN!!
             //C dilinde pointer
+            //Metotlarda default değerler en sonda bulunur.
+            //ref keywordu:Değer tipi referans tip gibi kullanmayı sağlar
+            //out:ref den farkı değer istememesidir
+            //params:dizi formatında parametre vereceğimiz zaman kullanırız
 
         }
     }
